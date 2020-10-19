@@ -1,2 +1,2 @@
-# C23
-SUPPLY MISSION - 2
+# SupplyMissionC23
+SupplyMissionC23
